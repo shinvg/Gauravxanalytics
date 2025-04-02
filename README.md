@@ -7,6 +7,6 @@ Welcome to my data portfolio! Here, I document a summary of my projects in the d
 
 📚 Table of Contents
 
-1.SQL.
+1. SQL.
 
-2.Power bi.
+2. Power bi.
